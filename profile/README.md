@@ -6,6 +6,6 @@ Welcome to the Risk of Resources github organization
 
 https://www.riskofresources.com
 
-# Twitch.TV
+# Twitch.tv
 
 https://www.twitch.tv/riskofresources
