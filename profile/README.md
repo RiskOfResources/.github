@@ -9,3 +9,8 @@ https://www.riskofresources.com
 # Twitch.tv
 
 https://www.twitch.tv/riskofresources
+
+
+# Discord
+
+https://discord.gg/vSMZNDRVbe
